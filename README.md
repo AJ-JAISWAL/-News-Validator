@@ -33,7 +33,7 @@ In an era of rapidly spreading misinformation, ensuring the credibility of news 
 
 In conclusion, a news validator serves as a critical tool in navigating the vast landscape of information by verifying accuracy and credibility. By fostering transparency, promoting critical thinking, and combating misinformation, it empowers users to make informed decisions and uphold the integrity of journalistic standards in the digital age.
 
-###### Video: 
+##### Video: 
 
 https://github.com/AJ-JAISWAL/News-Validator/assets/108292938/274f6a3d-8c3b-43a3-88a3-2195b188e4fd
 
