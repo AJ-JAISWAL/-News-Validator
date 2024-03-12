@@ -65,7 +65,7 @@ def getcontent(url,summary):
                     content_text += content_element.get_text() + " "
                 sumary=summary_generater(content_text)
                 simliar=calculate_similarity(sumary,summary)
-                if simliar > 0.80:
+                if simliar >= 0.38:
                   return "This news is a valid news 👍 and the url of link "+news_url
     return "This is a fake news 🤦‍♀️"
 
