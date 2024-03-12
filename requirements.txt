@@ -3,4 +3,3 @@ transformers
 torch
 bs4
 requests
-re
