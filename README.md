@@ -1,1 +1,1 @@
-# -News-Validator
+# News-Validator
